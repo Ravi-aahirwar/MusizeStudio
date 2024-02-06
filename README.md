@@ -1,7 +1,7 @@
-# Musize
-[MusizeStudio]([https://streamvid-media.netlify.app/]) -A video library app providing list of songs and albums of different artists and categories.integrated application made using ReactJs.
+# Musize Studio
+[Musize Studio]([https://musizestudio.netlify.app/]) -A video library app providing list of songs and albums of different artists and categories.integrated application made using ReactJs.
 
-[Live Demo Link](https://streamvid-media.netlify.app/) -- 
+[Live Demo Link](https://musizestudio.netlify.app/) -- 
 
 ## How to install and run locally?
 
