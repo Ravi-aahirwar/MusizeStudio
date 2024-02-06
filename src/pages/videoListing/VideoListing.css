@@ -1,0 +1,20 @@
+.genres-div {
+    height: fit-content;
+    width: 95%;
+    margin: auto;
+    display: flex;
+    gap: 15px;
+    overflow-y: scroll;
+    white-space: nowrap;
+}
+
+.genres-div::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+.genres-div::-webkit-scrollbar-track {
+    background: transparent;
+}
+.genres-div::-webkit-scrollbar-thumb {
+    background: transparent;
+}

@@ -1,0 +1,13 @@
+
+.btn{
+    border: 1px solid #3896E6;
+    padding: 6px 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white; 
+}
+
+.selected {
+    background-color: #3896E6;
+    border: none;
+}

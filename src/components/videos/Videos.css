@@ -1,0 +1,51 @@
+.videos-card-div {
+    width: 11.5rem;
+    margin: 10px 14px;
+}
+
+.videos-Card {
+    text-decoration: none;
+    position: relative;
+}
+.player-Card-logo{
+    font-size: 2rem;
+    color: white;
+    opacity: 0.9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.videos-Card .music-title {
+    padding-top: 5px;
+    color: white;
+    font-size: medium;
+}
+
+.videos-Card img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.video-outer-div {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.date-duration {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.date-duration p {
+    color: rgb(141, 139, 139);
+    text-align: left;
+}

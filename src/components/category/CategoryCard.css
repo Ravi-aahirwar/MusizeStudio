@@ -1,0 +1,30 @@
+.category-Card-div {
+    width: 11.5rem;
+    margin: 10px 14px;
+}
+
+.category-Card img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.category-Card {
+    text-decoration: none;
+    border-bottom: none;
+}
+.category-Card:hover{
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+
+.category-text,.category-desc {
+    padding-top: 5px;
+    color: white;
+    font-size: medium;
+}
+.category-desc{
+color: rgb(141, 139, 139);
+text-align: left;
+}

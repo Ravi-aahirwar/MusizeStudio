@@ -1,0 +1,34 @@
+.artist-outerDiv{
+    display: flex;
+    align-items: center;
+    overflow-y: scroll;
+    margin: 5px 10px;
+    gap: 20px;
+}
+.artist-div-Crad {
+    color: white;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.artist-div-Crad img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.artist-outerDiv p{
+    color:#3EA6FF ;
+}
+.artist-outerDiv::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+.artist-outerDiv::-webkit-scrollbar-track {
+    background: transparent;
+}
+.artist-outerDiv::-webkit-scrollbar-thumb {
+    background: transparent;
+}
